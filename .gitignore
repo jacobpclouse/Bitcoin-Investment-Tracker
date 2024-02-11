@@ -1,1 +1,67 @@
-*.text
+# Ignore .NET artifacts
+*.obj
+*.dll
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.libs
+*.sbr
+*.scc
+*.msi
+*.deployment
+*.svclog
+*.vspx
+*.dotCover
+*.resharper
+*.UserSettings
+_ReSharper.*
+*.resharper.user
+*.TeamCity
+
+# Ignore Visual Studio files
+.vs/
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.user
+*.userosscache
+*.pidb
+*.log
+
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nuget.props
+*.nuget.targets
+*.lock.json
+packages/
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore user-specific files
+*.userprefs
+
+# Ignore generated client-side bundles or minified files
+wwwroot/lib/
+
+# Ignore publish directory
+publish/

@@ -3,3 +3,6 @@ An ASP.NET / C# program to track how much you have invested into Crypto vs how m
 
 ## Technologies:
 Built using: ASP.NET, C#, RESTful APIs
+
+## Resources Used:
+- Tutorial: Get started with ASP.NET Core: https://learn.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-8.0&tabs=windows
