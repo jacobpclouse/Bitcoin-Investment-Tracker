@@ -9,6 +9,7 @@ cd aspnetcoreapp
 dotnet watch run
 
 ## Resources Used:
+- *Get started with ASP.NET Core MVC*: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-8.0&tabs=visual-studio-code
+- Tutorial: Deploy an ASP.NET Core and Azure SQL Database app to Azure App Service: https://learn.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app?tabs=copilot&pivots=azure-portal
 - Tutorial: Get started with ASP.NET Core: https://learn.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-8.0&tabs=windows
-- Get started with ASP.NET Core MVC: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-8.0&tabs=visual-studio-code
 - Choose an ASP.NET Core web UI: https://learn.microsoft.com/en-us/aspnet/core/tutorials/choose-web-ui?view=aspnetcore-8.0
