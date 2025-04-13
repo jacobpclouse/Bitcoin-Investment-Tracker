@@ -15,3 +15,7 @@ Built using: Laravel, PHP RESTful APIs
 - https://laravel.com/docs/12.x/installation
 - https://laravel.com/docs/12.x/sail
 - https://laravel.com/docs/12.x/starter-kits
+- https://youtu.be/1aDuaPhJT8E?t=711
+
+
+### Need to add starter kit and then add sail to this!
